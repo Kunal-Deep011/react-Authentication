@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+.box2{
+    font-family: 'Inter', sans-serif;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.box2 p{
+    font-size: 24px;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 25px;
+}
+
+
